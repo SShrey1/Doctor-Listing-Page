@@ -1,5 +1,3 @@
-# Doctor-Listing-Page
-
 # Doctor Listing Application
 
 A modern, responsive web application for finding and booking doctor appointments. Built with React, TypeScript, and Tailwind CSS.

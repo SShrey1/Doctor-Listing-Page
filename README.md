@@ -2,7 +2,7 @@
 
 A modern, responsive web application for finding and booking doctor appointments. Built with React, TypeScript, and Tailwind CSS.
 
-![Doctor Listing App](project/Screenshot%202025-04-25%20at%2017.14.26.png)
+![Doctor Listing App](project/Screenshot%2025-04-25%at%17.33.09.png)
 
 ## 🌟 Features
 
